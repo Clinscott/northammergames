@@ -15,6 +15,12 @@ code {
     monospace;
 }
 
+.app-logo{
+  width:300px;
+  height:150px;
+  text-align:center;
+}
+
 .title{
   margin:0%;
   padding-bottom: 0%;
